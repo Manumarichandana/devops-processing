@@ -1,6 +1,6 @@
 variable "region" {
     description = " region of s3 bucket creation in dev"
-    default     = "us-east-1"
+    default     = "us-west-2"
 }
 
 variable "bucket" {

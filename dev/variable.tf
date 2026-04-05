@@ -10,5 +10,5 @@ variable "bucket" {
 
 variable "versioning" {
     description = " The versioning is on on files"
-    default     = True
+    default     = true
 }

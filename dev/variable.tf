@@ -3,7 +3,7 @@ variable "region" {
     default     = "us-west-2"
 }
 
-variable "bucket_name" {
+variable "bucket" {
     description = " The name of the bucket"
     default     = "dev-bucket-msc2103"
 }

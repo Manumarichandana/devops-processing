@@ -1,6 +1,6 @@
 module "s3" {
     source  = "git::https://github.com/Manumarichandana/terraform-modules.git//s3?ref=module"
-    bucket_name = var.bucket_name
+    bucket = var.bucket
     region  = var.region
     versioning  = var.versioning
 }

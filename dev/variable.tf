@@ -3,9 +3,9 @@ variable "region" {
     default     = "us-west-2"
 }
 
-variable "bucket" {
+variable "bucket_name" {
     description = " The name of the bucket"
-    default     = "dev-bucket"
+    default     = "dev-bucket-msc2103"
 }
 
 variable "versioning" {

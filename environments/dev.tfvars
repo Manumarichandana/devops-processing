@@ -1,3 +1,3 @@
-region      = "us-east-1"
-bucket_name = "devops-processing-dev-saipraneeth-001"
+region      = "us-west-2"
+bucket_name = "devproc-dev-msc2103"
 versioning  = true
